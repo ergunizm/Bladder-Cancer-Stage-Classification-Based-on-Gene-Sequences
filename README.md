@@ -1,2 +1,2 @@
 # Bladder Cancer Stage Classification Based on Gene Sequences
- introduction to bioinformatics term project
+The dataset GSE244266 in the NCBI information system was used in this research. This dataset contains gene sequences related to Bladder Cancer. At first, a dataset was created for the classification stage by performing operations such as normalization and transposition on the RStudio platform. In the classification stage, SMOTE method was selected due to the imbalance of the stages in the dataset. Support Vector Machine, Logistic Regression and K-Nearest Neighbor classification methods were run on the csv file extracted from the cell data set.
